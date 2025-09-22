@@ -1,0 +1,26 @@
+body {
+    background-color: #e5ff00;
+} 
+
+.btn {
+    background-color: #49f11f;
+    font-family: fantasy;
+    color: black;
+    border-color: black;
+}
+
+.btn2{
+    background-color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    border-color: black;
+}
+
+.card{
+    display: flex;          
+    justify-content: center; 
+    align-items: center;     
+    }
+
+
+
